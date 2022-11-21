@@ -1,0 +1,15 @@
+@use "base/reset";
+@use "base/base";
+@use "block/header";
+@use "block/heroArea";
+@use "block/footer";
+@use "utility/margin";
+
+@use "parts/title";
+@use "parts/button";
+@use "config/mixins" as mix;
+
+
+body{
+    background-color: aqua;
+}
